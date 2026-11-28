@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-21 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-21 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-11-28 | [solution](problems/1101-select-all-rows) |
+| [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-11-28 | [solution](problems/1102-select-specific-columns) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-21 | [solution](problems/0002-transpose-of-a-matrix) |
 
 ---

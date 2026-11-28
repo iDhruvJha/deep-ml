@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:01:43.821Z",
+  "generated_at": "2026-11-28T11:02:42.554Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -115,6 +115,19 @@
       "path": "problems/1103-filter-rows-with-where",
       "first_solved_at": "2026-11-28T11:01:00.170Z",
       "last_pushed_at": "2026-11-28T11:01:00.170Z",
+      "language": "sql",
+      "lines": 4
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-11-28T11:01:59.029Z",
+      "last_pushed_at": "2026-11-28T11:01:59.029Z",
       "language": "sql",
       "lines": 4
     }
